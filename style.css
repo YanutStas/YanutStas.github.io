@@ -1,0 +1,23 @@
+#lastvideo {
+  text-align: center;
+  font-size: 25px;
+  width: 590px;
+}
+
+.post2 {
+  width: 590px;
+}
+
+#priziv {
+  width: 590px;
+}
+
+#tablesrh {
+  font-size: 25px;
+  margin: 0px 0px 0px -390px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
